@@ -1,0 +1,12 @@
+{
+    "app": {
+        "selectlanguage": "Spache auswählen",
+        "descriptiontext1": "Dieser Text ist deutsch. Er wurde aus der Resource 'descriptiontext1' des Resourcenverzeichnisses 'de-DE' generiert",
+        "descriptiontext2": "Hier ein zweiter Absatz generiert aus der Resource 'descriptiontext2'",
+        "german": "deutsch",
+        "english": "englisch",
+        "french": "französich",
+        "informations": "Informationen",
+        "informationtext": "Hier ein weiterer Informationstext. Der Titel der Seite bleibt für alle Sprachen gleich. Er wird nur einmal festgelegt in der Resource 'app.name' im übergreifenden Resourcenverzeichnis 'dev'"
+    }
+}

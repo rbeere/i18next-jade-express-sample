@@ -1,0 +1,12 @@
+{
+    "app": {
+        "selectlanguage": "Choisis langue",
+        "descriptiontext1": "Ce text est en fraincais.",
+        "descriptiontext2": "Je ne parla pas francais trés bon.",
+        "german": "allemand",
+        "english": "anglais",
+        "french": "francais",
+        "informations": "Informations",
+        "informationtext": "C'est un autre text informative."
+    }
+}
