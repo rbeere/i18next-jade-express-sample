@@ -9,6 +9,7 @@
     "express": "3.0.5",
     "jade": "*",
     "stylus": "*",
-	"nib": "*"
+	"nib": "*",
+	"i18next": "*"
   }
 }
