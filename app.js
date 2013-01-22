@@ -30,10 +30,8 @@ app.configure(function(){
   app.use(express.static(path.join(__dirname, 'public')));
 });
 
-i18n.registerAppHelper(app)
-    .serveClientScript(app)
-    .serveDynamicResources(app)
-    .serveMissingKeyRoute(app);
+
+i18n.registerAppHelper(app);
 	
 app.get('/', function(req, res) {
 	res.render('index', { title: 'Localization with Express, Jade and i18next-node' });
