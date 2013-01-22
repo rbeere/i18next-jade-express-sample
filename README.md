@@ -20,3 +20,14 @@ now point your browser to
 
     http://localhost:3000
 	
+Credits
+-------
+Thanx to Jan Mühlemann for his [i18next](http://jamuhl.github.com/i18next/) 
+and [i18next-node](http://jamuhl.github.com/i18next/node/) libraries.
+
+
+More information
+----------------
+
+For a walk through of the example see my blog post ["Internationalization with Express, Jade and i18next-node"](http://rbeere.tumblr.com/post/41212250036/internationalization-with-express-jade-and)
+
