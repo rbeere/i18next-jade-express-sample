@@ -7,6 +7,6 @@
         "english": "englisch",
         "french": "französich",
         "informations": "Informationen",
-        "informationtext": "Hier ein weiterer Informationstext. Der Titel der Seite bleibt für alle Sprachen gleich. Er wird nur einmal festgelegt in der Resource 'app.name' im übergreifenden Resourcenverzeichnis 'dev'"
+        "informationtext": "Hier ein weiterer Informationstext. Der Banner Text der Seite bleibt für alle Sprachen gleich. Er wird nur einmal festgelegt in der Resource 'app.name' im übergreifenden Resourcenverzeichnis 'dev'"
     }
 }

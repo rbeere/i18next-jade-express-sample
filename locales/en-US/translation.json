@@ -7,6 +7,6 @@
         "english": "english",
         "french": "french",
         "informations": "Informations",
-        "informationtext": "Here is another informational text. The title of the page remains the same for every language. It is only defined once in the resource 'app.name' of the fallback resource directory 'dev'"
+        "informationtext": "Here is another informational text. The heading text of the page remains the same for every language. It is only defined once in the resource 'app.name' of the fallback resource directory 'dev'"
     }
 }
