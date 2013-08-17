@@ -34,6 +34,7 @@ app.configure(function(){
 i18n.registerAppHelper(app);
 	
 app.get('/', function(req, res) {
+	res.header("Content-Type", "text/html; charset=utf-8");
 	res.render('index', { title: 'Localization with Express, Jade and i18next-node' });
 });
 
