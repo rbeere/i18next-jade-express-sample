@@ -1,0 +1,12 @@
+{   
+  "app": {
+    "selectlanguage": "Choisir une langue",
+    "descriptiontext1": "Ce texte est en français. Il a été généré par la ressource id 'descriptiontext1' dans le répertoire de ressource 'fr-FR'.",
+    "descriptiontext2": "Ceci est un deuxième paragraphe généré par la ressource id 'descriptiontext2'.",
+    "german": "allemand",
+    "english": "anglais",
+    "french": "français",
+    "informations": "Informations",
+    "informationtext": "C'est un autre texte informatif. Le texte de l'entête de la page reste inchangé dans toutes les langues. Il est défini une fois dans la ressource 'app.name' du répertoire par défaut: 'dev'."   
+  }
+}
