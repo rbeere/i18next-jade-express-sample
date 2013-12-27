@@ -1,0 +1,26 @@
+doctype html
+html
+  head
+    title #{title}
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    script(src="http://code.jquery.com/jquery-1.7.min.js", type="text/javascript")
+
+  body
+    header
+      h1= t('app.name')
+    nav.navbar
+      h1= t('app.selectlanguage')
+      ul
+        li
+          a#de(href='/?setLng=de-DE')= t('app.german')
+        li
+          a#en(href='/?setLng=en-US')= t('app.english')
+        li
+          a#fr(href='/?setLng=fr-FR')= t('app.french')
+    .container
+      .main-content
+        block content
+      .sidebar
+        block sidebar
+    footer
+      p Running on node with Express, Jade and Stylus
